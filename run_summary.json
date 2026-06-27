@@ -1,0 +1,15 @@
+{
+  "mode": "figure2",
+  "seed": 2026,
+  "kappa": 1.0,
+  "figure2": {
+    "figure": "reproduce3_output\\figure2_bvs_vs_lasso.png",
+    "replicates": 100,
+    "bvs_median_difference": 0.0,
+    "lasso_median_difference": -240.51207819086278,
+    "bvs_exact_zero_fraction": 1.0,
+    "mean_bvs_size": 20.0,
+    "mean_lasso_size": 45.14
+  },
+  "elapsed_seconds": 19.13021159172058
+}
